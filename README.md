@@ -31,7 +31,8 @@ url: https://swapnilbamble1438.github.io/EcommerceApplication/
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/EcommerceApp.git
+- ~~In URI paste this url: https://github.com/swapnilbamble1438/EcommerceApp.git~~
+- In URI paste this url: https://github.com/rethishchandran/EcommerceApp.git
   -> Next
 -  Now in Local Destination
 
